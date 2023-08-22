@@ -1,0 +1,5 @@
+{{#user}}
+Name: Shruti Kaushik
+Skills:  HTML, CSS, JS, MySql, Bootstrap, Git/Github, ms Excel, MS word
+Email:Kaushikshruti2004@gmail.com
+{{/user}}
